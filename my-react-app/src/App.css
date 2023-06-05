@@ -6,7 +6,22 @@
   height: 40vmin;
   pointer-events: none;
 }
+.App11{
+  width: 400px;
+  height: 200px;
+  position: relative;
+  left: 38%;
+  /* top: 50%; */
+ /* transform: translate(-50,-50); */
+ border: 5px solid red;
+ border-radius: 5px;
+}
 
+.App12{
+  position: relative;
+  left: 25%;
+  top: 40px;
+}
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
